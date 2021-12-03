@@ -1,0 +1,27 @@
+#todo{
+    background-color: aqua;
+}
+#uno{
+    width: 90%;
+    height: 100%;
+    background-color: #636363;
+    margin: 1rem;
+    padding: 1rem;
+    margin-right: center;
+    text-align: center;
+    color: aliceblue;
+    justify-content: center;
+}
+header{
+
+    width: 100%;
+    height: 75px;
+    background: #2858ac;
+    z-index: 10;
+    top: 0;
+    left: 0;
+    box-shadow: 0px 1px 5px;
+    color: aliceblue;
+    text-align: center;
+
+}

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contacto / Debelopment Dreams</title>
+    
+    <link rel="stylesheet" href="estilos.css">
+    <link rel="stylesheet" href="Contacto.css">
+    <link rel="shortcut icon" href="Logo.png" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="sweetalert2.min.css">
+</head>
+<body>
+    <script src="JQuerry.js"></script>
+    <script src="sweetalert2.min.js"></script>
+    <script src="logicas.js"></script>
+    <header class="Contacto">
+        <nav>
+            <a href="Index.html">Inicio</a>
+            <a href="#">Acerca de</a>
+            <a href="Contacto.html">Contacto</a>
+            <a href="#">Servicios</a>
+            <a href="#">Redes Sociales</a>
+        </nav>
+        <div class="Datos">
+            <form action="Correo.php" method="post">
+                <h1>Contactanos</h1>
+                <h2>Presupuestos Gratis</h2>
+                <input type="text" name="nombre" placeholder="Nombre" required>
+                
+                <input type="text" name="correo" placeholder="Correo" required>
+                
+                <input type="text" name="telefono" placeholder="Telefono" required>
+                 
+                <textarea rows="4" name="mensaje" placeholder="Mensaje"></textarea>
+                
+                <input type="checkbox" name="checkbox" id="checkbox"> acepto el  <a href="">aviso de privacidad</a>
+                
+                <input class="Button" id="btnform" type="submit" value="Enviar">
+                
+            </form>
+
+        </div>
+    </header>
+   
+</body>
+</html>

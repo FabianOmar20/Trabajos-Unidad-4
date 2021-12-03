@@ -1,0 +1,25 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-image: url(../images/Fondo.jpg);
+}
+.container{
+    background-color: #ffffff;
+    padding: 25px;
+    border-radius: 10px;
+   
+}
+h1{
+    text-align: center;
+   justify-content: center;
+   font-weight: bold;
+}
+
+input, textarea{
+    border-radius: 5px;
+    border: 1px solid #ffffffff;
+    padding: 5px;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+    
+}
+
+    

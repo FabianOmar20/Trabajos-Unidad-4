@@ -1,0 +1,31 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-image: url(../images/Fondo.jpg);
+    background-size: cover;
+
+}
+.Logo{
+    width: 15%;
+    height:15%;
+    align-content: center;
+}
+h2{
+    font-weight: bold;
+    text-align: center;
+}
+.imagen{
+    background-image: url("../images/Diversas.jpg"); ;
+    background-position: center;
+    background-size: cover;
+    border-radius: 25px;
+}
+.container{
+    background-color: white;
+    width: 75%;
+    height: 75%;
+    margin-top: 75px;
+    border-radius: 25px;
+}
+.gs{
+    border-radius: 25px;
+}

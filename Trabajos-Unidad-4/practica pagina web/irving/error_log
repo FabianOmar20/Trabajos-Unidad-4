@@ -1,0 +1,8 @@
+[08-Nov-2021 00:14:48 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home4/lindoyqu/design.lindo-y-querido.com/development-dreams/conectar.php on line 7
+[08-Nov-2021 00:15:32 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home4/lindoyqu/design.lindo-y-querido.com/development-dreams/conectar.php on line 7
+[08-Nov-2021 00:17:18 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home4/lindoyqu/design.lindo-y-querido.com/development-dreams/conectar.php on line 7
+[08-Nov-2021 00:18:17 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home4/lindoyqu/design.lindo-y-querido.com/development-dreams/conectar.php on line 7
+[10-Nov-2021 14:21:50 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2002): Network is unreachable in /home4/lindoyqu/design.lindo-y-querido.com/development-dreams/conectar.php on line 7
+[10-Nov-2021 14:21:53 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2002): Network is unreachable in /home4/lindoyqu/design.lindo-y-querido.com/development-dreams/conectar.php on line 7
+[10-Nov-2021 14:29:58 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home4/lindoyqu/design.lindo-y-querido.com/development-dreams/conectar.php on line 7
+[10-Nov-2021 14:30:30 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/2002): Connection timed out in /home4/lindoyqu/design.lindo-y-querido.com/development-dreams/conectar.php on line 7
